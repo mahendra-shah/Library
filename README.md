@@ -1,1 +1,2 @@
 # Library
+Library management system This project majorly focus on Object-Oriented_Programming(OOP). I created a library where student/anyone can borrow books as much they want if the book available in the library, can return books of their choice and how much they want to return from their borrowed book, donate/add  books to the library by giving admin password and admin can track all the records of books which are taken by students/anyone.
